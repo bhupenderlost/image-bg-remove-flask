@@ -29,7 +29,7 @@ Image Background Remover is an app which removes background from an image.
  - [Deep Lab](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
 
-## How To Use
+## Libraries And Software
 Make sure that the following things are installed on your system:
 - Python 3
 - Tensorflow
